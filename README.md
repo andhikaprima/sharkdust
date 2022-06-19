@@ -1,6 +1,4 @@
 # Shark-dust
-Repositoy for shark-dust paper
-
 Script Materials for
 Shark-dust: High-throughput DNA sequencing of processing residues unveils rife trade in endangered sharks and rays
 

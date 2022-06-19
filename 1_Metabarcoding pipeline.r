@@ -17,7 +17,7 @@ illuminapairedend -r Dust_S1_L001_R1_001.fastq Dust_S1_L001_R2_001.fastq | obian
 
 
 ### 2. Demultiplex (need ngsfilter formatted .tsv file)
-ngsfilter -t ngsfilter_Dust.txt --fasta-output -u unidentified_Dust.fasta Good_Dust.fastq > Dust.filtered.fasta
+ngsfilter -t 1a_ngsfilter_Dust.txt --fasta-output -u unidentified_Dust.fasta Good_Dust.fastq > Dust.filtered.fasta
 
 ## Output:
 # Dust.filtered.fasta (8,075,259 reads)

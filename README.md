@@ -1,6 +1,6 @@
 # Shark-dust
-Script Materials for
-Shark-dust: Shark-dust metabarcoding for trade monitoring of marine wildlife
+Script materials for manuscript titled:<br>
+<b>Shark-dust: Shark-dust metabarcoding for trade monitoring of marine wildlife</b>
 
 Andhika P. Prasetyo,1,2,3* Joanna M. Murray,4 Firdaus Agung,5 Naiara G. Sales,6 Allan D. McDevitt,1,7† Stefano Mariani8†
 

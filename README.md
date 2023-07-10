@@ -1,6 +1,6 @@
 # Shark-dust
 Script materials for manuscript titled:<br>
-<b>Shark-dust: Shark-dust metabarcoding for trade monitoring of marine wildlife</b>
+<b>Shark-dust: Application of high-throughput DNA sequencing of processing residues for trade monitoring of threatened sharks and rays</b>
 
 Andhika P. Prasetyo,1,2,3* Joanna M. Murray,4 Firdaus Agung,5 Naiara G. Sales,6 Allan D. McDevitt,1,7† Stefano Mariani8†
 
